@@ -5,7 +5,7 @@
 
 #include "pitches.h"
 
-const int buzzerPin 2
+const int buzzerPin = 2;
 
 // notes in the melody:
 // use 0 for a rest
